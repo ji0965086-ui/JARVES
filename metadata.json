@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "A sophisticated virtual assistant with voice interaction, biometric simulation, and intelligent task automation powered by Gemini.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["AI Conversationalist", "Voice Control", "Facial Recognition"]
+}
